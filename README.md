@@ -7,7 +7,7 @@
 
 <hr/>
 
-<table>
+<table class="table">
 	<tr class="par">
 		<td>Juan José Valle Zarza</td>
 	</tr>
