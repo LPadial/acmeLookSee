@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
-</head>
 <h1>AcmeLookSee</h1>
 <p>This is the project AcmeLookSee for the group of the subject DP formed by</p> 
 

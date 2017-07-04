@@ -18,6 +18,6 @@
 
 <p><spring:message code="welcome.greeting.prefix" /> ${name}<spring:message code="welcome.greeting.suffix" /></p>
 
-<p>This a simple project by Juan M. Triguero Piñero, Gonzalo Delgado Chaves, Juan José Valle Zarza and Adrián Sánchez Reyes</p>
+<p>This a simple project to September</p>
 
 <p><spring:message code="welcome.greeting.current.time" /> ${moment}</p> 
