@@ -139,11 +139,11 @@
 			<artifactId>spring-context</artifactId>
 			<version>4.0.0.RELEASE</version>
 		</dependency>
-<Dependency>
-  <GroupId>io.packagecloud</GroupId>
-  <ArtifactId>java-test-package</ArtifactId>
-  <Version>2.0.0</Version>
-</Dependency>
+<dependency>
+  <groupId>io.packagecloud</groupId>
+  <artifactId>java-test-package</artifactId>
+  <version>2.0.0</version>
+</dependency>
 
 		<dependency>
 			<groupId>org.springframework</groupId>
