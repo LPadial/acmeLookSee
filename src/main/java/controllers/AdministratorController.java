@@ -40,7 +40,8 @@ public class AdministratorController extends AbstractController {
 	@RequestMapping("/action-2")
 	public ModelAndView action2() {
 		ModelAndView result;
-		String droga="";		
+		String droga="";
+		String coco="";		
 		result = new ModelAndView("administrator/action-2");
 		
 		return result;
